@@ -1,0 +1,1 @@
+This project is the Tribute Page projects from freeCodeCamp.
